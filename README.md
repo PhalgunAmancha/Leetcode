@@ -11,6 +11,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/PhalgunAmancha/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/PhalgunAmancha/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2288-count-operations-to-obtain-zero](https://github.com/PhalgunAmancha/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/PhalgunAmancha/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/PhalgunAmancha/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/PhalgunAmancha/Leetcode/tree/master/2752-sum-multiples) |
@@ -42,3 +43,4 @@
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/PhalgunAmancha/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2288-count-operations-to-obtain-zero](https://github.com/PhalgunAmancha/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
