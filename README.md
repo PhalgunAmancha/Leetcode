@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/PhalgunAmancha/Leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/PhalgunAmancha/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/PhalgunAmancha/Leetcode/tree/master/0258-add-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PhalgunAmancha/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PhalgunAmancha/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -34,6 +35,7 @@
 # Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/PhalgunAmancha/Leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/PhalgunAmancha/Leetcode/tree/master/2491-smallest-even-multiple) |
 # Bit Manipulation
 |  |
@@ -43,6 +45,7 @@
 # Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/PhalgunAmancha/Leetcode/tree/master/0258-add-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/PhalgunAmancha/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2288-count-operations-to-obtain-zero](https://github.com/PhalgunAmancha/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 # Binary Search
