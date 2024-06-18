@@ -4,6 +4,7 @@
 # Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/PhalgunAmancha/Leetcode/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PhalgunAmancha/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/1610-xor-operation-in-an-array) |
