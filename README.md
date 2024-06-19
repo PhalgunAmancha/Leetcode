@@ -8,6 +8,7 @@
 | [0069-sqrtx](https://github.com/PhalgunAmancha/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/PhalgunAmancha/Leetcode/tree/master/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PhalgunAmancha/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PhalgunAmancha/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -52,3 +53,15 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PhalgunAmancha/Leetcode/tree/master/0069-sqrtx) |
+# Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/1013-fibonacci-number) |
+# Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/1013-fibonacci-number) |
