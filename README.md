@@ -22,6 +22,7 @@
 | [2752-sum-multiples](https://github.com/PhalgunAmancha/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PhalgunAmancha/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/PhalgunAmancha/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3371-harshad-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/3371-harshad-number) |
 # Array
 |  |
@@ -80,3 +81,11 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0268-missing-number) |
+# String
+|  |
+| ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/PhalgunAmancha/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+# Greedy
+|  |
+| ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/PhalgunAmancha/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
