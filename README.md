@@ -30,6 +30,7 @@
 | [0136-single-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/PhalgunAmancha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1635-number-of-good-pairs](https://github.com/PhalgunAmancha/Leetcode/tree/master/1635-number-of-good-pairs) |
 # Hash Table
 |  |
@@ -64,9 +65,11 @@
 | ------- |
 | [0069-sqrtx](https://github.com/PhalgunAmancha/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/PhalgunAmancha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 # Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/PhalgunAmancha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/1013-fibonacci-number) |
 # Recursion
 |  |
