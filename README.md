@@ -27,6 +27,7 @@
 # Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0268-missing-number) |
@@ -93,3 +94,7 @@
 |  |
 | ------- |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/PhalgunAmancha/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+# Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
