@@ -32,6 +32,7 @@
 | [0268-missing-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/PhalgunAmancha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1635-number-of-good-pairs](https://github.com/PhalgunAmancha/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/PhalgunAmancha/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Hash Table
 |  |
 | ------- |
