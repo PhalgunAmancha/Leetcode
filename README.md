@@ -31,6 +31,7 @@
 | [0136-single-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/PhalgunAmancha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1635-number-of-good-pairs](https://github.com/PhalgunAmancha/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PhalgunAmancha/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -98,3 +99,4 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0283-move-zeroes) |
