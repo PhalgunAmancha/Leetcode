@@ -100,3 +100,14 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0283-move-zeroes) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
