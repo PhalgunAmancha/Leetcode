@@ -110,6 +110,7 @@
 | [0075-sort-colors](https://github.com/PhalgunAmancha/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/PhalgunAmancha/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1293-three-consecutive-odds](https://github.com/PhalgunAmancha/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
