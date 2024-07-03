@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/PhalgunAmancha/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/PhalgunAmancha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/PhalgunAmancha/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0169-majority-element) |
@@ -124,6 +125,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PhalgunAmancha/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/PhalgunAmancha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
@@ -150,6 +152,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PhalgunAmancha/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Simulation
