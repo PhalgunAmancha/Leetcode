@@ -171,6 +171,7 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PhalgunAmancha/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2645-pass-the-pillow](https://github.com/PhalgunAmancha/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Greedy
 |  |
 | ------- |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/PhalgunAmancha/Leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
