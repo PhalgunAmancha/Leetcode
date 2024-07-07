@@ -116,6 +116,7 @@
 | [0137-single-number-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/PhalgunAmancha/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -146,6 +147,7 @@
 | [0015-3sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/PhalgunAmancha/Leetcode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PhalgunAmancha/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -168,6 +170,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PhalgunAmancha/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Simulation
@@ -193,4 +196,5 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0137-single-number-ii) |
+| [0287-find-the-duplicate-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
