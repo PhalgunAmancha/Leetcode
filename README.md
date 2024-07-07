@@ -170,6 +170,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/PhalgunAmancha/Leetcode/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PhalgunAmancha/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2645-pass-the-pillow](https://github.com/PhalgunAmancha/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Greedy
@@ -183,5 +184,6 @@
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/PhalgunAmancha/Leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/PhalgunAmancha/Leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
