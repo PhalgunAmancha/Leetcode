@@ -115,6 +115,7 @@
 | [0075-sort-colors](https://github.com/PhalgunAmancha/Leetcode/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -198,6 +199,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0204-count-primes) |
 | [1642-water-bottles](https://github.com/PhalgunAmancha/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PhalgunAmancha/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/PhalgunAmancha/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -218,4 +220,12 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PhalgunAmancha/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
