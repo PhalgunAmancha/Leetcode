@@ -119,6 +119,7 @@
 | [0219-contains-duplicate-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PhalgunAmancha/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -136,6 +137,7 @@
 | [0169-majority-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
@@ -144,6 +146,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/PhalgunAmancha/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/PhalgunAmancha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 | [0075-sort-colors](https://github.com/PhalgunAmancha/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/PhalgunAmancha/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Counting
@@ -172,6 +176,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -228,4 +233,16 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0204-count-primes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
