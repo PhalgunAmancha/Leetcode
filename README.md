@@ -119,6 +119,7 @@
 | [0229-majority-element-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PhalgunAmancha/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/PhalgunAmancha/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -135,6 +136,7 @@
 | [0219-contains-duplicate-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
