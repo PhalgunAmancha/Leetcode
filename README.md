@@ -110,6 +110,7 @@
 | [0015-3sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/PhalgunAmancha/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/PhalgunAmancha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PhalgunAmancha/Leetcode/tree/master/0075-sort-colors) |
@@ -203,10 +204,12 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PhalgunAmancha/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PhalgunAmancha/Leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0204-count-primes) |
 | [1642-water-bottles](https://github.com/PhalgunAmancha/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PhalgunAmancha/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
