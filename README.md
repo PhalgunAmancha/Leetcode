@@ -133,6 +133,7 @@
 | [1803-average-waiting-time](https://github.com/PhalgunAmancha/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PhalgunAmancha/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PhalgunAmancha/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2502-sort-the-people](https://github.com/PhalgunAmancha/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2502-sort-the-people](https://github.com/PhalgunAmancha/Leetcode/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/PhalgunAmancha/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/PhalgunAmancha/Leetcode/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
 | ------- |
@@ -258,6 +261,7 @@
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/PhalgunAmancha/Leetcode/tree/master/1720-crawler-log-folder) |
+| [2502-sort-the-people](https://github.com/PhalgunAmancha/Leetcode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
