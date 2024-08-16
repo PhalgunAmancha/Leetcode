@@ -232,6 +232,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PhalgunAmancha/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -285,5 +286,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
