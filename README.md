@@ -164,6 +164,7 @@
 | ------- |
 | [0015-3sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/PhalgunAmancha/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -294,6 +295,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0234-palindrome-linked-list) |
