@@ -166,6 +166,7 @@
 | [0018-4sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/PhalgunAmancha/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PhalgunAmancha/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PhalgunAmancha/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -269,6 +271,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1720-crawler-log-folder](https://github.com/PhalgunAmancha/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Binary Indexed Tree
 |  |
@@ -292,5 +295,6 @@
 | ------- |
 | [0148-sort-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
