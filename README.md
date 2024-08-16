@@ -151,6 +151,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PhalgunAmancha/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/PhalgunAmancha/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/PhalgunAmancha/Leetcode/tree/master/0493-reverse-pairs) |
@@ -164,6 +165,7 @@
 | [0015-3sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/PhalgunAmancha/Leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PhalgunAmancha/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -173,6 +175,7 @@
 | [0015-3sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/PhalgunAmancha/Leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -278,6 +281,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/PhalgunAmancha/Leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -286,6 +290,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
