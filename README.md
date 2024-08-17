@@ -128,6 +128,7 @@
 | [0493-reverse-pairs](https://github.com/PhalgunAmancha/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0816-design-hashset](https://github.com/PhalgunAmancha/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/PhalgunAmancha/Leetcode/tree/master/0817-design-hashmap) |
 | [1293-three-consecutive-odds](https://github.com/PhalgunAmancha/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/PhalgunAmancha/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/PhalgunAmancha/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -147,6 +148,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0816-design-hashset](https://github.com/PhalgunAmancha/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/PhalgunAmancha/Leetcode/tree/master/0817-design-hashmap) |
 | [2502-sort-the-people](https://github.com/PhalgunAmancha/Leetcode/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -309,14 +311,17 @@
 | [0234-palindrome-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/PhalgunAmancha/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/PhalgunAmancha/Leetcode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PhalgunAmancha/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/PhalgunAmancha/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/PhalgunAmancha/Leetcode/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/PhalgunAmancha/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/PhalgunAmancha/Leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
