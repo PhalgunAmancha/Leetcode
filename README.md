@@ -225,6 +225,7 @@
 | [0002-add-two-numbers](https://github.com/PhalgunAmancha/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/PhalgunAmancha/Leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0204-count-primes) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PhalgunAmancha/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/PhalgunAmancha/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PhalgunAmancha/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/PhalgunAmancha/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -306,4 +307,5 @@
 | [0234-palindrome-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PhalgunAmancha/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
