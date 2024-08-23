@@ -11,15 +11,13 @@ public:
     ListNode *detectCycle(ListNode *head) {
         ListNode * temp=head;
         map<ListNode *,int>mpp;
-        int idx=0;
         while(temp!=NULL)
         {
             if(mpp.find(temp)!=mpp.end())
             {
                 return temp;
             }
-            mpp[temp]=idx;
-            idx++;
+            mpp[temp]=1;
             temp=temp->next;
         }
         return nullptr;
