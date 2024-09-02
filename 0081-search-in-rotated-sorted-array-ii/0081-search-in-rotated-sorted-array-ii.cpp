@@ -1,57 +1,42 @@
 class Solution {
 public:
-    void reverse(vector<int>& nums, int x, int y) {
-        while (x < y) {
-            swap(nums[x], nums[y]);
-            x++;
-            y--;
-        }
-    }
-
-    bool binarySearch(vector<int>& nums, int low, int high, int x) {
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-           
-            if (nums[mid] == x)
-                return true;
-
-            
-            if (nums[mid] < x)
-                low = mid + 1;
-            
-            else
-                high = mid - 1;
-        }
-        
-        return false;
-    }
-
     bool search(vector<int>& nums, int target) {
-        int n = nums.size();
-        int j = -1;
-
-        
-        for (int i = 0; i < n - 1; i++) {
-            if (nums[i] > nums[i + 1]) {
-                j = i;
-                break;
+        int n=nums.size();
+        int low=0,high=n-1;
+        while(low<=high)
+        {
+            int mid=low+(high-low)/2;
+            if(nums[mid]==target)
+                return true;
+            if(nums[low]==nums[mid] && nums[mid]==nums[high])
+            {
+                low=low+1;
+                high=high-1;
+                continue;
+            }
+            if(nums[low]<=nums[mid])
+            {
+                if(nums[low]<=target && target <=nums[mid])
+                {
+                    high=mid-1;
+                }
+                else
+                {
+                    low=mid+1;
+                }
+            }
+            else
+            {
+                if(nums[mid]<=target && target <=nums[high])
+                {
+                    low=mid+1;
+                }
+                else
+                {
+                    high=mid-1;
+                }
             }
         }
-
-        
-        if (j == -1) {
-            return binarySearch(nums, 0, n - 1, target);
-        }
-
-        
-        reverse(nums, 0, j);
-        
-        reverse(nums, j + 1, n - 1);
-       
-        reverse(nums, 0, n - 1);
-
-        
-        return binarySearch(nums, 0, n - 1, target);
+        return false;
     }
 };
