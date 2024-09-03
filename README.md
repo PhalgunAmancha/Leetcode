@@ -125,6 +125,7 @@
 | [0229-majority-element-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PhalgunAmancha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PhalgunAmancha/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -152,6 +153,7 @@
 | [0219-contains-duplicate-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PhalgunAmancha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0816-design-hashset](https://github.com/PhalgunAmancha/Leetcode/tree/master/0816-design-hashset) |
@@ -184,6 +186,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/PhalgunAmancha/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/PhalgunAmancha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -198,6 +201,7 @@
 | [0169-majority-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PhalgunAmancha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/PhalgunAmancha/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2502-sort-the-people](https://github.com/PhalgunAmancha/Leetcode/tree/master/2502-sort-the-people) |
@@ -217,6 +221,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/PhalgunAmancha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/PhalgunAmancha/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
