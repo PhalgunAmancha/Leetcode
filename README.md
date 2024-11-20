@@ -135,6 +135,7 @@
 | [0792-binary-search](https://github.com/PhalgunAmancha/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/PhalgunAmancha/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/PhalgunAmancha/Leetcode/tree/master/0817-design-hashmap) |
+| [0907-koko-eating-bananas](https://github.com/PhalgunAmancha/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/PhalgunAmancha/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/PhalgunAmancha/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/PhalgunAmancha/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -227,6 +228,7 @@
 | [0493-reverse-pairs](https://github.com/PhalgunAmancha/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/PhalgunAmancha/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/PhalgunAmancha/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Simulation
 |  |
 | ------- |
