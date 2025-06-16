@@ -150,6 +150,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PhalgunAmancha/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PhalgunAmancha/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PhalgunAmancha/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2502-sort-the-people](https://github.com/PhalgunAmancha/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -252,6 +253,7 @@
 | [1803-average-waiting-time](https://github.com/PhalgunAmancha/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PhalgunAmancha/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PhalgunAmancha/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/PhalgunAmancha/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Greedy
 |  |
@@ -271,6 +273,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PhalgunAmancha/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/PhalgunAmancha/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PhalgunAmancha/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/PhalgunAmancha/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
 |  |
@@ -408,4 +411,8 @@
 | [0100-same-tree](https://github.com/PhalgunAmancha/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/PhalgunAmancha/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PhalgunAmancha/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
