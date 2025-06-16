@@ -149,6 +149,7 @@
 | [1803-average-waiting-time](https://github.com/PhalgunAmancha/Leetcode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PhalgunAmancha/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PhalgunAmancha/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PhalgunAmancha/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2502-sort-the-people](https://github.com/PhalgunAmancha/Leetcode/tree/master/2502-sort-the-people) |
