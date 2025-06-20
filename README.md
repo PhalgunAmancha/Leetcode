@@ -120,6 +120,7 @@
 | [0073-set-matrix-zeroes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PhalgunAmancha/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/PhalgunAmancha/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0136-single-number) |
@@ -199,6 +200,7 @@
 | [0027-remove-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/PhalgunAmancha/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/PhalgunAmancha/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0148-sort-list) |
@@ -218,6 +220,7 @@
 | [0018-4sum](https://github.com/PhalgunAmancha/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/PhalgunAmancha/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/PhalgunAmancha/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PhalgunAmancha/Leetcode/tree/master/0217-contains-duplicate) |
