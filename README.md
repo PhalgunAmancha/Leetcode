@@ -127,6 +127,7 @@
 | [0137-single-number-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/PhalgunAmancha/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/PhalgunAmancha/Leetcode/tree/master/0217-contains-duplicate) |
@@ -245,6 +246,7 @@
 | [0035-search-insert-position](https://github.com/PhalgunAmancha/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/PhalgunAmancha/Leetcode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PhalgunAmancha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
