@@ -1,34 +1,32 @@
-import java.lang.Math;
-
 class Solution {
-    int maxfun(int piles[]) {
-        int n = piles.length; // Fix: Use piles.length
-        int largest = piles[0];
-        for (int i = 1; i < n; i++) {
-            if (piles[i] > largest) {
-                largest = piles[i];
+    public int maxElement(int[] piles, int n){
+        int maxi = Integer.MIN_VALUE;
+        for(int i = 0; i < n; i++){
+            if(piles[i] > maxi){
+                maxi = piles[i];
             }
         }
-        return largest;
+        return maxi;
     }
 
-    int totalHrs(int piles[], int hourly) {
-        int totalhrs = 0;
-        int n = piles.length; // Fix: Use piles.length
-        for (int i = 0; i < n; i++) {
-            totalhrs += Math.ceil((double)piles[i] / hourly); // Fix: Use Math.ceil and cast to double
+    public long calculateTotalHrs(int[] piles, int mid){
+        long totalHrs = 0;
+        for(int i = 0; i < piles.length; i++){
+            totalHrs += (piles[i] + mid - 1) / mid; // integer ceiling
         }
-        return totalhrs;
+        return totalHrs;
     }
 
     public int minEatingSpeed(int[] piles, int h) {
+        int n = piles.length;
         int low = 1;
-        int high = maxfun(piles);
-        int ans = high; // Initialize ans with a default value
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            int totalhrs = totalHrs(piles, mid);
-            if (totalhrs <= h) {
+        int high = maxElement(piles, n);
+        int ans = Integer.MAX_VALUE;
+
+        while(low <= high){
+            int mid = low + (high - low) / 2; // avoid overflow
+            long totalHrs = calculateTotalHrs(piles, mid);
+            if(totalHrs <= h){
                 ans = mid;
                 high = mid - 1;
             } else {
