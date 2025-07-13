@@ -147,6 +147,7 @@
 | [0817-design-hashmap](https://github.com/PhalgunAmancha/Leetcode/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/PhalgunAmancha/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/PhalgunAmancha/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/PhalgunAmancha/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PhalgunAmancha/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/PhalgunAmancha/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/PhalgunAmancha/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -255,6 +256,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/PhalgunAmancha/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/PhalgunAmancha/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/PhalgunAmancha/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PhalgunAmancha/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Simulation
 |  |
