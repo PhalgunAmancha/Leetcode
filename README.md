@@ -157,6 +157,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PhalgunAmancha/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PhalgunAmancha/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PhalgunAmancha/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PhalgunAmancha/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2502-sort-the-people](https://github.com/PhalgunAmancha/Leetcode/tree/master/2502-sort-the-people) |
@@ -236,6 +237,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/PhalgunAmancha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/PhalgunAmancha/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/PhalgunAmancha/Leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PhalgunAmancha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
@@ -266,6 +268,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/PhalgunAmancha/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/PhalgunAmancha/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PhalgunAmancha/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PhalgunAmancha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
