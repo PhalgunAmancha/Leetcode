@@ -150,6 +150,7 @@
 | [1293-three-consecutive-odds](https://github.com/PhalgunAmancha/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/PhalgunAmancha/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/PhalgunAmancha/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-design-browser-history](https://github.com/PhalgunAmancha/Leetcode/tree/master/1582-design-browser-history) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PhalgunAmancha/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/PhalgunAmancha/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/PhalgunAmancha/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -358,6 +359,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PhalgunAmancha/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PhalgunAmancha/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1582-design-browser-history](https://github.com/PhalgunAmancha/Leetcode/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/PhalgunAmancha/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Indexed Tree
@@ -396,6 +398,7 @@
 | [0817-design-hashmap](https://github.com/PhalgunAmancha/Leetcode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PhalgunAmancha/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/PhalgunAmancha/Leetcode/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/PhalgunAmancha/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -405,6 +408,7 @@
 | ------- |
 | [0816-design-hashset](https://github.com/PhalgunAmancha/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/PhalgunAmancha/Leetcode/tree/master/0817-design-hashmap) |
+| [1582-design-browser-history](https://github.com/PhalgunAmancha/Leetcode/tree/master/1582-design-browser-history) |
 ## Hash Function
 |  |
 | ------- |
@@ -449,4 +453,12 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/PhalgunAmancha/Leetcode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/PhalgunAmancha/Leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
