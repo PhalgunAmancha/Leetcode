@@ -299,6 +299,7 @@
 | [0048-rotate-image](https://github.com/PhalgunAmancha/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/PhalgunAmancha/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/PhalgunAmancha/Leetcode/tree/master/0231-power-of-two) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PhalgunAmancha/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/PhalgunAmancha/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PhalgunAmancha/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -310,6 +311,7 @@
 | ------- |
 | [0136-single-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PhalgunAmancha/Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/PhalgunAmancha/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
@@ -320,6 +322,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/PhalgunAmancha/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/PhalgunAmancha/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PhalgunAmancha/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
