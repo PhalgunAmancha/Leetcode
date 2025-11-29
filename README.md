@@ -163,6 +163,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2502-sort-the-people](https://github.com/PhalgunAmancha/Leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PhalgunAmancha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PhalgunAmancha/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -306,6 +307,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/PhalgunAmancha/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PhalgunAmancha/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PhalgunAmancha/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
