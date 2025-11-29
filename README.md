@@ -464,4 +464,8 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/PhalgunAmancha/Leetcode/tree/master/1582-design-browser-history) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/PhalgunAmancha/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
