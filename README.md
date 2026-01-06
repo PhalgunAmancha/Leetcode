@@ -481,4 +481,5 @@
 | [0596-classes-with-at-least-5-students](https://github.com/PhalgunAmancha/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/PhalgunAmancha/Leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/PhalgunAmancha/Leetcode/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/PhalgunAmancha/Leetcode/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
