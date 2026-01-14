@@ -494,4 +494,5 @@
 | [1890-the-latest-login-in-2020](https://github.com/PhalgunAmancha/Leetcode/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/PhalgunAmancha/Leetcode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/PhalgunAmancha/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
+| [3436-find-valid-emails](https://github.com/PhalgunAmancha/Leetcode/tree/master/3436-find-valid-emails) |
 <!---LeetCode Topics End-->
