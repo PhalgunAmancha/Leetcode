@@ -488,6 +488,7 @@
 | [1068-product-sales-analysis-i](https://github.com/PhalgunAmancha/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/PhalgunAmancha/Leetcode/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/PhalgunAmancha/Leetcode/tree/master/1084-sales-analysis-iii) |
+| [1527-patients-with-a-condition](https://github.com/PhalgunAmancha/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1789-primary-department-for-each-employee](https://github.com/PhalgunAmancha/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/PhalgunAmancha/Leetcode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/PhalgunAmancha/Leetcode/tree/master/1873-calculate-special-bonus) |
