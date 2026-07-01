@@ -497,4 +497,5 @@
 | [1978-employees-whose-manager-left-the-company](https://github.com/PhalgunAmancha/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [3436-find-valid-emails](https://github.com/PhalgunAmancha/Leetcode/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/PhalgunAmancha/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
+| [3475-dna-pattern-recognition](https://github.com/PhalgunAmancha/Leetcode/tree/master/3475-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
