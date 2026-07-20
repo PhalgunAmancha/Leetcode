@@ -164,6 +164,7 @@
 | [2502-sort-the-people](https://github.com/PhalgunAmancha/Leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PhalgunAmancha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PhalgunAmancha/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/PhalgunAmancha/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -293,6 +294,7 @@
 | [0048-rotate-image](https://github.com/PhalgunAmancha/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PhalgunAmancha/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/PhalgunAmancha/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/PhalgunAmancha/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
 | ------- |
@@ -499,4 +501,8 @@
 | [3465-find-products-with-valid-serial-numbers](https://github.com/PhalgunAmancha/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/PhalgunAmancha/Leetcode/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/PhalgunAmancha/Leetcode/tree/master/3497-analyze-subscription-conversion) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/PhalgunAmancha/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
