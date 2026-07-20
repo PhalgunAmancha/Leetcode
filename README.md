@@ -165,6 +165,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/PhalgunAmancha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PhalgunAmancha/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PhalgunAmancha/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/PhalgunAmancha/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,6 +285,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/PhalgunAmancha/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PhalgunAmancha/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/PhalgunAmancha/Leetcode/tree/master/2645-pass-the-pillow) |
+| [3925-concatenate-array-with-reverse](https://github.com/PhalgunAmancha/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
 | ------- |
