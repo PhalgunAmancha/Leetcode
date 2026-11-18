@@ -363,6 +363,7 @@
 | ------- |
 | [1720-crawler-log-folder](https://github.com/PhalgunAmancha/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/PhalgunAmancha/Leetcode/tree/master/2502-sort-the-people) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PhalgunAmancha/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PhalgunAmancha/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
